@@ -11,3 +11,6 @@ Features
 🖥 Interactive Dashboard – Built with Streamlit for real-time exploration
 
 🗂 PCAP File Support – Load packet capture files and trace calls
+## 🎥 Demo Video
+[Watch the Demo](https://drive.google.com/file/d/15TTw5KD3KqXypoyA-pgUoFLYxa_kTFFA/view?usp=sharing)
+)
